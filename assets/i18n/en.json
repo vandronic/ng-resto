@@ -1,0 +1,18 @@
+{
+	"t_menu": "Menu of the day",
+    "t_commande": "Order",
+	"t_choix": "Choose your table",
+	"t_search": "Search",
+	"t_reserve": "Reserve",
+	"t_add": "Add",
+	"t_cancel": "Cancel",
+	"t_amount": "Amount",
+	"t_add_amount": "Add an amount",
+	"t_addition": "Addition",
+	"t_send": "Send",
+	"t_price": "Price",
+	"t_picture": "Picture",
+    "t_qte": "Amount",
+	"t_pay": "Pay All",
+	"t_sum": "Sum"
+}

@@ -1,0 +1,19 @@
+{
+	"t_menu": "Menu du jour",
+    "t_commande": "Commande",
+    "t_choix": "Choisir votre table",
+    "t_search": "Chercher",
+    "t_reserve": "Réserver",
+    "t_add": "Ajouter",
+    "t_cancel": "Annuler",
+    "t_amount": "Quantité",
+    "t_add_amount": "Ajouter une Quantité",
+    "t_addition": "Addition",
+    "t_send": "Envoyer",
+    "t_price": "Prix",
+    "t_picture": "Image",
+    "t_qte": "Qte",
+    "t_pay": "Payer Tout",
+    "t_sum": "Somme"
+
+}
